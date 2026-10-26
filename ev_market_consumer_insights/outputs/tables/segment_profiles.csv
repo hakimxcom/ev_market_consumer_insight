@@ -1,4 +1,0 @@
-segment,median_hh_income,pct_renter,pct_multiunit_5plus,truck_share,ports_per_10k_2026q2,gas_regular_mean,acc2_adopted_2025q1,has_ev_fee_in_window,ev_search_ratio_mean,ev_share_mean,n_states,states
-S1,97031.0,52.4,46.65,56.3,13.25,3.4,0.5,0.0,29.32,11.76,2,DC NY
-S2,88165.0,32.82,18.5,64.85,8.87,3.52,0.46,0.71,23.94,9.49,24,AZ CA CO CT DE FL HI ID IL MA MD ME MI NH NJ NM NV OR PA RI UT VA VT WA
-S3,72647.0,31.61,14.24,69.33,3.94,3.05,0.0,0.96,13.76,3.86,25,AK AL AR GA IA IN KS KY LA MN MO MS MT NC ND NE OH OK SC SD TN TX WI WV WY
