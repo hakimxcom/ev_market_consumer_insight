@@ -1,0 +1,7 @@
+twin_pair,twin_side,complaints,electrical,powertrain_propulsion,driver_assistance,brakes,steering_suspension_wheels,visibility_lighting,body_safety_equipment,unknown_other,kw_dealer,kw_cost,kw_mechanic,kw_parts_wait,kw_loss_of_power,kw_12v_battery,kw_charging,kw_cold_weather
+Equinox,EV,203,21,8,67,28,4,100,7,27,42,2,3,6,1,1,7,8
+Equinox,gas,301,85,100,71,41,24,48,13,60,171,11,10,31,24,1,10,11
+Ioniq 5 / Tucson,EV,889,705,358,83,14,17,9,14,77,505,25,12,96,137,168,260,41
+Ioniq 5 / Tucson,gas,540,93,151,218,74,19,26,35,104,253,22,30,10,47,1,4,16
+Mach-E / Escape,EV,201,93,43,69,41,12,7,20,34,105,20,8,11,20,11,18,5
+Mach-E / Escape,gas,413,94,203,76,22,7,29,51,69,250,27,23,30,37,3,17,13

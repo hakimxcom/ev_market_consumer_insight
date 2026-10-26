@@ -1,0 +1,400 @@
+group,month,term,value
+B1,2025-01-01,Electric vehicle,77
+B1,2025-02-01,Electric vehicle,70
+B1,2025-03-01,Electric vehicle,78
+B1,2025-04-01,Electric vehicle,73
+B1,2025-05-01,Electric vehicle,76
+B1,2025-06-01,Electric vehicle,75
+B1,2025-07-01,Electric vehicle,83
+B1,2025-08-01,Electric vehicle,86
+B1,2025-09-01,Electric vehicle,82
+B1,2025-10-01,Electric vehicle,62
+B1,2025-11-01,Electric vehicle,61
+B1,2025-12-01,Electric vehicle,59
+B1,2026-01-01,Electric vehicle,59
+B1,2026-02-01,Electric vehicle,67
+B1,2026-03-01,Electric vehicle,68
+B1,2026-04-01,Electric vehicle,78
+B1,2026-05-01,Electric vehicle,89
+B1,2026-06-01,Electric vehicle,100
+B1,2026-07-01,Electric vehicle,94
+B1,2026-08-01,Electric vehicle,86
+B1,2026-09-01,Electric vehicle,82
+B1,2025-01-01,Charging station,23
+B1,2025-02-01,Charging station,21
+B1,2025-03-01,Charging station,21
+B1,2025-04-01,Charging station,20
+B1,2025-05-01,Charging station,20
+B1,2025-06-01,Charging station,21
+B1,2025-07-01,Charging station,22
+B1,2025-08-01,Charging station,21
+B1,2025-09-01,Charging station,21
+B1,2025-10-01,Charging station,18
+B1,2025-11-01,Charging station,20
+B1,2025-12-01,Charging station,20
+B1,2026-01-01,Charging station,17
+B1,2026-02-01,Charging station,18
+B1,2026-03-01,Charging station,18
+B1,2026-04-01,Charging station,19
+B1,2026-05-01,Charging station,21
+B1,2026-06-01,Charging station,23
+B1,2026-07-01,Charging station,24
+B1,2026-08-01,Charging station,22
+B1,2026-09-01,Charging station,19
+B2,2025-01-01,Electric car charger installation,13
+B2,2025-02-01,Electric car charger installation,14
+B2,2025-03-01,Electric car charger installation,17
+B2,2025-04-01,Electric car charger installation,25
+B2,2025-05-01,Electric car charger installation,15
+B2,2025-06-01,Electric car charger installation,20
+B2,2025-07-01,Electric car charger installation,22
+B2,2025-08-01,Electric car charger installation,34
+B2,2025-09-01,Electric car charger installation,25
+B2,2025-10-01,Electric car charger installation,21
+B2,2025-11-01,Electric car charger installation,18
+B2,2025-12-01,Electric car charger installation,17
+B2,2026-01-01,Electric car charger installation,12
+B2,2026-02-01,Electric car charger installation,26
+B2,2026-03-01,Electric car charger installation,24
+B2,2026-04-01,Electric car charger installation,33
+B2,2026-05-01,Electric car charger installation,39
+B2,2026-06-01,Electric car charger installation,37
+B2,2026-07-01,Electric car charger installation,37
+B2,2026-08-01,Electric car charger installation,39
+B2,2026-09-01,Electric car charger installation,34
+B2,2025-01-01,ev charging cost,100
+B2,2025-02-01,ev charging cost,78
+B2,2025-03-01,ev charging cost,83
+B2,2025-04-01,ev charging cost,78
+B2,2025-05-01,ev charging cost,63
+B2,2025-06-01,ev charging cost,72
+B2,2025-07-01,ev charging cost,74
+B2,2025-08-01,ev charging cost,87
+B2,2025-09-01,ev charging cost,80
+B2,2025-10-01,ev charging cost,64
+B2,2025-11-01,ev charging cost,64
+B2,2025-12-01,ev charging cost,85
+B2,2026-01-01,ev charging cost,67
+B2,2026-02-01,ev charging cost,73
+B2,2026-03-01,ev charging cost,87
+B2,2026-04-01,ev charging cost,88
+B2,2026-05-01,ev charging cost,93
+B2,2026-06-01,ev charging cost,93
+B2,2026-07-01,ev charging cost,96
+B2,2026-08-01,ev charging cost,79
+B2,2026-09-01,ev charging cost,78
+B2,2025-01-01,apartment ev charging,0
+B2,2025-02-01,apartment ev charging,0
+B2,2025-03-01,apartment ev charging,0
+B2,2025-04-01,apartment ev charging,0
+B2,2025-05-01,apartment ev charging,0
+B2,2025-06-01,apartment ev charging,0
+B2,2025-07-01,apartment ev charging,0
+B2,2025-08-01,apartment ev charging,0
+B2,2025-09-01,apartment ev charging,0
+B2,2025-10-01,apartment ev charging,0
+B2,2025-11-01,apartment ev charging,0
+B2,2025-12-01,apartment ev charging,0
+B2,2026-01-01,apartment ev charging,7
+B2,2026-02-01,apartment ev charging,0
+B2,2026-03-01,apartment ev charging,10
+B2,2026-04-01,apartment ev charging,7
+B2,2026-05-01,apartment ev charging,0
+B2,2026-06-01,apartment ev charging,12
+B2,2026-07-01,apartment ev charging,7
+B2,2026-08-01,apartment ev charging,7
+B2,2026-09-01,apartment ev charging,0
+E,2025-01-01,Used car,96
+E,2025-02-01,Used car,97
+E,2025-03-01,Used car,96
+E,2025-04-01,Used car,90
+E,2025-05-01,Used car,85
+E,2025-06-01,Used car,90
+E,2025-07-01,Used car,96
+E,2025-08-01,Used car,94
+E,2025-09-01,Used car,86
+E,2025-10-01,Used car,82
+E,2025-11-01,Used car,82
+E,2025-12-01,Used car,82
+E,2026-01-01,Used car,87
+E,2026-02-01,Used car,99
+E,2026-03-01,Used car,98
+E,2026-04-01,Used car,97
+E,2026-05-01,Used car,90
+E,2026-06-01,Used car,96
+E,2026-07-01,Used car,100
+E,2026-08-01,Used car,93
+E,2026-09-01,Used car,88
+E,2025-01-01,Tesla Model 3,9
+E,2025-02-01,Tesla Model 3,8
+E,2025-03-01,Tesla Model 3,9
+E,2025-04-01,Tesla Model 3,8
+E,2025-05-01,Tesla Model 3,8
+E,2025-06-01,Tesla Model 3,8
+E,2025-07-01,Tesla Model 3,8
+E,2025-08-01,Tesla Model 3,8
+E,2025-09-01,Tesla Model 3,8
+E,2025-10-01,Tesla Model 3,7
+E,2025-11-01,Tesla Model 3,7
+E,2025-12-01,Tesla Model 3,7
+E,2026-01-01,Tesla Model 3,7
+E,2026-02-01,Tesla Model 3,7
+E,2026-03-01,Tesla Model 3,8
+E,2026-04-01,Tesla Model 3,8
+E,2026-05-01,Tesla Model 3,10
+E,2026-06-01,Tesla Model 3,9
+E,2026-07-01,Tesla Model 3,9
+E,2026-08-01,Tesla Model 3,9
+E,2026-09-01,Tesla Model 3,9
+E,2025-01-01,Tesla Model Y,7
+E,2025-02-01,Tesla Model Y,5
+E,2025-03-01,Tesla Model Y,6
+E,2025-04-01,Tesla Model Y,6
+E,2025-05-01,Tesla Model Y,6
+E,2025-06-01,Tesla Model Y,6
+E,2025-07-01,Tesla Model Y,7
+E,2025-08-01,Tesla Model Y,7
+E,2025-09-01,Tesla Model Y,7
+E,2025-10-01,Tesla Model Y,6
+E,2025-11-01,Tesla Model Y,5
+E,2025-12-01,Tesla Model Y,7
+E,2026-01-01,Tesla Model Y,6
+E,2026-02-01,Tesla Model Y,6
+E,2026-03-01,Tesla Model Y,8
+E,2026-04-01,Tesla Model Y,9
+E,2026-05-01,Tesla Model Y,9
+E,2026-06-01,Tesla Model Y,9
+E,2026-07-01,Tesla Model Y,9
+E,2026-08-01,Tesla Model Y,9
+E,2026-09-01,Tesla Model Y,9
+E,2025-01-01,Chevrolet Equinox EV,3
+E,2025-02-01,Chevrolet Equinox EV,2
+E,2025-03-01,Chevrolet Equinox EV,3
+E,2025-04-01,Chevrolet Equinox EV,3
+E,2025-05-01,Chevrolet Equinox EV,3
+E,2025-06-01,Chevrolet Equinox EV,3
+E,2025-07-01,Chevrolet Equinox EV,4
+E,2025-08-01,Chevrolet Equinox EV,4
+E,2025-09-01,Chevrolet Equinox EV,3
+E,2025-10-01,Chevrolet Equinox EV,3
+E,2025-11-01,Chevrolet Equinox EV,2
+E,2025-12-01,Chevrolet Equinox EV,2
+E,2026-01-01,Chevrolet Equinox EV,2
+E,2026-02-01,Chevrolet Equinox EV,3
+E,2026-03-01,Chevrolet Equinox EV,3
+E,2026-04-01,Chevrolet Equinox EV,3
+E,2026-05-01,Chevrolet Equinox EV,3
+E,2026-06-01,Chevrolet Equinox EV,3
+E,2026-07-01,Chevrolet Equinox EV,3
+E,2026-08-01,Chevrolet Equinox EV,2
+E,2026-09-01,Chevrolet Equinox EV,2
+E,2025-01-01,Ford Mustang Mach-E,6
+E,2025-02-01,Ford Mustang Mach-E,6
+E,2025-03-01,Ford Mustang Mach-E,7
+E,2025-04-01,Ford Mustang Mach-E,6
+E,2025-05-01,Ford Mustang Mach-E,5
+E,2025-06-01,Ford Mustang Mach-E,5
+E,2025-07-01,Ford Mustang Mach-E,5
+E,2025-08-01,Ford Mustang Mach-E,6
+E,2025-09-01,Ford Mustang Mach-E,6
+E,2025-10-01,Ford Mustang Mach-E,5
+E,2025-11-01,Ford Mustang Mach-E,5
+E,2025-12-01,Ford Mustang Mach-E,5
+E,2026-01-01,Ford Mustang Mach-E,5
+E,2026-02-01,Ford Mustang Mach-E,6
+E,2026-03-01,Ford Mustang Mach-E,6
+E,2026-04-01,Ford Mustang Mach-E,6
+E,2026-05-01,Ford Mustang Mach-E,7
+E,2026-06-01,Ford Mustang Mach-E,6
+E,2026-07-01,Ford Mustang Mach-E,6
+E,2026-08-01,Ford Mustang Mach-E,6
+E,2026-09-01,Ford Mustang Mach-E,6
+E,2025-01-01,Hyundai Ioniq 5,4
+E,2025-02-01,Hyundai Ioniq 5,3
+E,2025-03-01,Hyundai Ioniq 5,3
+E,2025-04-01,Hyundai Ioniq 5,3
+E,2025-05-01,Hyundai Ioniq 5,3
+E,2025-06-01,Hyundai Ioniq 5,3
+E,2025-07-01,Hyundai Ioniq 5,4
+E,2025-08-01,Hyundai Ioniq 5,4
+E,2025-09-01,Hyundai Ioniq 5,4
+E,2025-10-01,Hyundai Ioniq 5,4
+E,2025-11-01,Hyundai Ioniq 5,3
+E,2025-12-01,Hyundai Ioniq 5,3
+E,2026-01-01,Hyundai Ioniq 5,3
+E,2026-02-01,Hyundai Ioniq 5,3
+E,2026-03-01,Hyundai Ioniq 5,4
+E,2026-04-01,Hyundai Ioniq 5,4
+E,2026-05-01,Hyundai Ioniq 5,4
+E,2026-06-01,Hyundai Ioniq 5,4
+E,2026-07-01,Hyundai Ioniq 5,4
+E,2026-08-01,Hyundai Ioniq 5,5
+E,2026-09-01,Hyundai Ioniq 5,4
+L,2025-01-01,Lease Toyota,32
+L,2025-02-01,Lease Toyota,29
+L,2025-03-01,Lease Toyota,28
+L,2025-04-01,Lease Toyota,26
+L,2025-05-01,Lease Toyota,26
+L,2025-06-01,Lease Toyota,27
+L,2025-07-01,Lease Toyota,37
+L,2025-08-01,Lease Toyota,36
+L,2025-09-01,Lease Toyota,33
+L,2025-10-01,Lease Toyota,32
+L,2025-11-01,Lease Toyota,32
+L,2025-12-01,Lease Toyota,32
+L,2026-01-01,Lease Toyota,30
+L,2026-02-01,Lease Toyota,38
+L,2026-03-01,Lease Toyota,78
+L,2026-04-01,Lease Toyota,93
+L,2026-05-01,Lease Toyota,100
+L,2026-06-01,Lease Toyota,94
+L,2026-07-01,Lease Toyota,96
+L,2026-08-01,Lease Toyota,92
+L,2026-09-01,Lease Toyota,46
+L,2025-01-01,Chevy Lease,17
+L,2025-02-01,Chevy Lease,16
+L,2025-03-01,Chevy Lease,16
+L,2025-04-01,Chevy Lease,15
+L,2025-05-01,Chevy Lease,14
+L,2025-06-01,Chevy Lease,15
+L,2025-07-01,Chevy Lease,18
+L,2025-08-01,Chevy Lease,18
+L,2025-09-01,Chevy Lease,17
+L,2025-10-01,Chevy Lease,15
+L,2025-11-01,Chevy Lease,16
+L,2025-12-01,Chevy Lease,15
+L,2026-01-01,Chevy Lease,15
+L,2026-02-01,Chevy Lease,15
+L,2026-03-01,Chevy Lease,17
+L,2026-04-01,Chevy Lease,23
+L,2026-05-01,Chevy Lease,32
+L,2026-06-01,Chevy Lease,31
+L,2026-07-01,Chevy Lease,34
+L,2026-08-01,Chevy Lease,38
+L,2026-09-01,Chevy Lease,30
+L,2025-01-01,ford lease,26
+L,2025-02-01,ford lease,26
+L,2025-03-01,ford lease,28
+L,2025-04-01,ford lease,29
+L,2025-05-01,ford lease,27
+L,2025-06-01,ford lease,25
+L,2025-07-01,ford lease,31
+L,2025-08-01,ford lease,33
+L,2025-09-01,ford lease,36
+L,2025-10-01,ford lease,32
+L,2025-11-01,ford lease,33
+L,2025-12-01,ford lease,34
+L,2026-01-01,ford lease,30
+L,2026-02-01,ford lease,36
+L,2026-03-01,ford lease,35
+L,2026-04-01,ford lease,39
+L,2026-05-01,ford lease,38
+L,2026-06-01,ford lease,42
+L,2026-07-01,ford lease,36
+L,2026-08-01,ford lease,35
+L,2026-09-01,ford lease,30
+L,2025-01-01,hyundai lease,15
+L,2025-02-01,hyundai lease,15
+L,2025-03-01,hyundai lease,16
+L,2025-04-01,hyundai lease,15
+L,2025-05-01,hyundai lease,15
+L,2025-06-01,hyundai lease,16
+L,2025-07-01,hyundai lease,17
+L,2025-08-01,hyundai lease,20
+L,2025-09-01,hyundai lease,19
+L,2025-10-01,hyundai lease,16
+L,2025-11-01,hyundai lease,16
+L,2025-12-01,hyundai lease,16
+L,2026-01-01,hyundai lease,15
+L,2026-02-01,hyundai lease,14
+L,2026-03-01,hyundai lease,15
+L,2026-04-01,hyundai lease,18
+L,2026-05-01,hyundai lease,19
+L,2026-06-01,hyundai lease,18
+L,2026-07-01,hyundai lease,18
+L,2026-08-01,hyundai lease,17
+L,2026-09-01,hyundai lease,15
+L,2025-01-01,tesla lease,10
+L,2025-02-01,tesla lease,9
+L,2025-03-01,tesla lease,10
+L,2025-04-01,tesla lease,9
+L,2025-05-01,tesla lease,9
+L,2025-06-01,tesla lease,9
+L,2025-07-01,tesla lease,9
+L,2025-08-01,tesla lease,12
+L,2025-09-01,tesla lease,11
+L,2025-10-01,tesla lease,8
+L,2025-11-01,tesla lease,10
+L,2025-12-01,tesla lease,11
+L,2026-01-01,tesla lease,8
+L,2026-02-01,tesla lease,6
+L,2026-03-01,tesla lease,9
+L,2026-04-01,tesla lease,10
+L,2026-05-01,tesla lease,11
+L,2026-06-01,tesla lease,10
+L,2026-07-01,tesla lease,9
+L,2026-08-01,tesla lease,9
+L,2026-09-01,tesla lease,8
+L,2025-01-01,Honda Lease,24
+L,2025-02-01,Honda Lease,23
+L,2025-03-01,Honda Lease,25
+L,2025-04-01,Honda Lease,22
+L,2025-05-01,Honda Lease,22
+L,2025-06-01,Honda Lease,21
+L,2025-07-01,Honda Lease,24
+L,2025-08-01,Honda Lease,28
+L,2025-09-01,Honda Lease,26
+L,2025-10-01,Honda Lease,21
+L,2025-11-01,Honda Lease,22
+L,2025-12-01,Honda Lease,21
+L,2026-01-01,Honda Lease,21
+L,2026-02-01,Honda Lease,21
+L,2026-03-01,Honda Lease,24
+L,2026-04-01,Honda Lease,27
+L,2026-05-01,Honda Lease,28
+L,2026-06-01,Honda Lease,31
+L,2026-07-01,Honda Lease,32
+L,2026-08-01,Honda Lease,32
+L,2026-09-01,Honda Lease,24
+U1,2025-01-01,Used car,96
+U1,2025-02-01,Used car,97
+U1,2025-03-01,Used car,96
+U1,2025-04-01,Used car,90
+U1,2025-05-01,Used car,85
+U1,2025-06-01,Used car,90
+U1,2025-07-01,Used car,96
+U1,2025-08-01,Used car,94
+U1,2025-09-01,Used car,86
+U1,2025-10-01,Used car,82
+U1,2025-11-01,Used car,82
+U1,2025-12-01,Used car,82
+U1,2026-01-01,Used car,87
+U1,2026-02-01,Used car,99
+U1,2026-03-01,Used car,98
+U1,2026-04-01,Used car,97
+U1,2026-05-01,Used car,90
+U1,2026-06-01,Used car,96
+U1,2026-07-01,Used car,100
+U1,2026-08-01,Used car,93
+U1,2026-09-01,Used car,88
+U1,2025-01-01,used tesla,3
+U1,2025-02-01,used tesla,3
+U1,2025-03-01,used tesla,4
+U1,2025-04-01,used tesla,4
+U1,2025-05-01,used tesla,3
+U1,2025-06-01,used tesla,3
+U1,2025-07-01,used tesla,3
+U1,2025-08-01,used tesla,3
+U1,2025-09-01,used tesla,3
+U1,2025-10-01,used tesla,3
+U1,2025-11-01,used tesla,3
+U1,2025-12-01,used tesla,3
+U1,2026-01-01,used tesla,3
+U1,2026-02-01,used tesla,3
+U1,2026-03-01,used tesla,3
+U1,2026-04-01,used tesla,4
+U1,2026-05-01,used tesla,4
+U1,2026-06-01,used tesla,4
+U1,2026-07-01,used tesla,4
+U1,2026-08-01,used tesla,4
+U1,2026-09-01,used tesla,4
